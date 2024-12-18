@@ -4,14 +4,14 @@ We’re excited to announce the release of Oula Quai Miner v0.4.1.1, delivering 
 🛠️ What’s New in v0.4.1.1?
 CUDA Runtime Compatibility Fixed:
 ● Addressed issues with CUDA compatibility that many users faced in v0.4.1.
-● Reduced dependency onlibnvrtc.so, ensuring broader compatibility across distributions.
+● Reduced dependency on`libnvrtc.so`, ensuring broader compatibility across distributions.
 
 💻 Linux Users:
 Please check out our detailed guide on how to set up Quai mining on your Linux system.👉 Quai Mining on Linux Guide
 
 📋 HiveOS User How to Update
 Update Your HiveOS Configuration:
-    ○ Update your HiveOS flight sheet with the new miner versionhttps://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.1.tar.gz.
+    ○ Update your HiveOS flight sheet with the new miner version`https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.1.tar.gz`.
     ○ Refer to our HiveOS Setup Guidefor step-by-step instructions.
 Apply Your New Flight Sheet and enjoy seamless Quai Testnet mining with Oula Pool.
 
