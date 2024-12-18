@@ -11,7 +11,7 @@ Please check out our detailed guide on how to set up Quai mining on your Linux s
 
 📋 HiveOS User How to Update
 Update Your HiveOS Configuration:
-    ○ Update your HiveOS flight sheet with the new miner version v0.4.1.1.
+    ○ Update your HiveOS flight sheet with the new miner versionhttps://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.1.tar.gz.
     ○ Refer to our HiveOS Setup Guidefor step-by-step instructions.
 Apply Your New Flight Sheet and enjoy seamless Quai Testnet mining with Oula Pool.
 
