@@ -1,34 +1,53 @@
-# 🚀 Oula Quai Miner v0.4.1.1 Testnet Release 🎉
+# 🚀 Quai Testnet Mining Software v0.4.1.2 Release 🎉
 
-We’re excited to announce the release of **Oula Quai Miner v0.4.1.1**, delivering critical improvements to enhance your Quai Testnet mining experience. This release resolves several issues reported by our community.
+We are pleased to announce the release of **Quai Testnet Mining Software v0.4.1.2**. This update introduces key improvements aimed at simplifying the setup process and enhancing system compatibility. The primary focus of this release is the removal of the **glibc 2.35 dependency**, making the software more flexible across different environments.
 
-## 🛠️ What’s New in v0.4.1.1?
+<br>
 
-### CUDA Runtime Compatibility Fixed:
-- Addressed issues with CUDA compatibility that many users faced in v0.4.1.
-- Reduced dependency on `libnvrtc.so`, ensuring broader compatibility across distributions.
+## 🔧 **Key Updates in v0.4.1.2**:
 
-## 💻 Linux Users:
-Please check out our detailed guide on how to set up Quai mining on your Linux system.  
-👉 [Quai Mining on Linux Guide](#)
+- **Removed glibc 2.35 Dependency** ❌: The software no longer requires glibc 2.35, improving compatibility across different Linux distributions and reducing potential setup issues.
+- **No Environment Updates Needed** 🔄: You no longer need to update GCC, G++, or NVIDIA drivers. This greatly simplifies the setup process.
+- **Simplified Startup Process** ⚡: The mining software now starts with minimal configuration, and known program environment errors have been addressed to improve overall stability.
+- **Ubuntu 20.04.6+ Compatibility** ✅: The software is now optimized for Ubuntu 20.04.6, with the requirement that the system's GPU drivers are version **535** or higher.
 
-## 📋 HiveOS User How to Update
+<br>
 
-### Update Your HiveOS Configuration:
-- Update your HiveOS flight sheet with the new miner version:  
-  [oula-quai-miner-v0.4.1.1.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.1.tar.gz).
-- Refer to our [HiveOS Setup Guide](#) for step-by-step instructions.
+## 💻 **Linux Users:**
+To ensure a smooth mining experience on your Linux system, please refer to our updated installation guide:  
+👉 [Quai Mining on Linux Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/quai-linux)
 
-Apply your new flight sheet and enjoy seamless Quai Testnet mining with Oula Pool.
+<br>
 
-## 🌟 Why Oula Pool?
-By choosing Oula Pool, you benefit from:
-- 💰 **Higher Rewards**: Advanced algorithms deliver superior profitability and efficiency.
-- ⚡ **Faster Performance**: Experience zero hashrate waste with intelligent task allocation.
-- 📊 **Real-Time Analytics**: Comprehensive monitoring tools to track your mining performance and earnings.
-- 🌍 **Global Coverage**: Low-latency nodes distributed worldwide for smooth and stable mining.
+## 📋 **HiveOS Users: How to Update**
 
-## 🔮 Join the Future of Quai Mining
-The future of blockchain mining starts here. Upgrade to v0.4.1.1 and unlock higher rewards, better performance, and unmatched reliability with Oula Pool. Let’s shape the future of mining together! 💪💎
+#### Update Your HiveOS Configuration:
+- Ensure your flight sheet is updated with the new miner version:
+<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.2.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.2.tar.gz)</span>
+- For detailed setup instructions, refer to our [HiveOS Setup Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/quai-hiveos).
+
+Once the new flight sheet is applied, you can enjoy seamless Quai Testnet mining without needing any additional environment updates.
+
+<br>
+
+## 🌟 **Why Choose Oula Pool?**
+By mining with **Oula Pool**, you can benefit from the following advantages:
+- 💰 **Higher Rewards**: Our advanced algorithms ensure optimal profitability and mining efficiency.
+- ⚡ **Faster Performance**: Intelligent task allocation minimizes hashrate waste, maximizing your mining potential.
+- 📊 **Real-Time Analytics**: Track your mining performance and earnings with our comprehensive monitoring tools.
+- 🌍 **Global Coverage**: Oula Pool has low-latency nodes worldwide, providing stable and smooth mining operations.
+
+<br>
+
+## 🔮 **Join the Future of Quai Mining**
+Upgrade to v0.4.1.2 and experience enhanced performance, simpler setup, and increased reliability with Oula Pool. This release is a step forward in making Quai blockchain mining easier and more accessible for all.
+
+Let’s shape the future of mining together! 💪💎
+
+<br>
 
 **Oula Pool Team** ❤️
+
+---  
+**For more information and resources, visit our website**: [Oula Network](https://oula.network)  
+**Need support? Join our active community on Telegram**: [Oula Community](https://t.me/oulacommunity)
