@@ -53,4 +53,4 @@ Let’s shape the future of mining together! 💪💎
 
 ---  
 **For more information and resources, visit our website**: [Oula Network](https://oula.network)  
-**Need support? Join our active community on Telegram**: [Oula Community](https://t.me/oulacommunity)
+
