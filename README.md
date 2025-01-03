@@ -1,15 +1,18 @@
-# 🚀 Quai Testnet Mining Software v0.4.1.2 Release 🎉
+# 🚀 Quai Testnet Mining Software v0.4.1.3 Release Notes 🎉
 
-We are pleased to announce the release of **Quai Testnet Mining Software v0.4.1.2**. This update introduces key improvements aimed at simplifying the setup process and enhancing system compatibility. The primary focus of this release is the removal of the **glibc 2.35 dependency**, making the software more flexible across different environments.
+We are excited to announce the release of **Quai Testnet Mining Software v0.4.1.3**, designed to enhance the mining experience with key feature updates and optimizations. This release focuses on improving user visibility and operational clarity for a seamless mining journey.
 
 <br>
 
-## 🔧 **Key Updates in v0.4.1.2**:
+## 🔑 **Highlights of v0.4.1.3**:
 
-- **Removed glibc 2.35 Dependency** ❌: The software no longer requires glibc 2.35, improving compatibility across different Linux distributions and reducing potential setup issues.
-- **No Environment Updates Needed** 🔄: You no longer need to update GCC, G++, or NVIDIA drivers. This greatly simplifies the setup process.
-- **Simplified Startup Process** ⚡: The mining software now starts with minimal configuration, and known program environment errors have been addressed to improve overall stability.
-- **Ubuntu 20.04.6+ Compatibility** ✅: The software is now optimized for Ubuntu 20.04.6, with the requirement that the system's GPU drivers are version **535** or higher.
+### **HiveOS Integration for Quai Hashrate Trends** 📊  
+- **24-Hour Hashrate Overview**: HiveOS users can now monitor their mining performance with real-time visibility of hashrate trends directly from the **Overview Tab**.  
+- This integration provides a detailed view of hashrate fluctuations over the past 24 hours, offering actionable insights for optimized mining operations.
+
+### **Enhanced Log Output Format** 🛠️  
+- **Optimized Logging Style**: Log outputs have been revamped for better readability and precision. Key improvements include:  
+  - Clearer formatting of timestamped entries.  
 
 <br>
 
@@ -23,30 +26,30 @@ To ensure a smooth mining experience on your Linux system, please refer to our u
 
 #### Update Your HiveOS Configuration:
 - Ensure your flight sheet is updated with the new miner version:
-<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.2.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.2.tar.gz)</span>
+<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.3.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.3.tar.gz)</span>
 - For detailed setup instructions, refer to our [HiveOS Setup Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/quai-hiveos).
 
 Once the new flight sheet is applied, you can enjoy seamless Quai Testnet mining without needing any additional environment updates.
 
 <br>
 
-## 🌟 **Why Choose Oula Pool?**
-By mining with **Oula Pool**, you can benefit from the following advantages:
+## 🌟 **Why Choose Oula**
+By mining with **Oula**, you can benefit from the following advantages:
 - 💰 **Higher Rewards**: Our advanced algorithms ensure optimal profitability and mining efficiency.
 - ⚡ **Faster Performance**: Intelligent task allocation minimizes hashrate waste, maximizing your mining potential.
 - 📊 **Real-Time Analytics**: Track your mining performance and earnings with our comprehensive monitoring tools.
-- 🌍 **Global Coverage**: Oula Pool has low-latency nodes worldwide, providing stable and smooth mining operations.
 
 <br>
 
-## 🔮 **Join the Future of Quai Mining**
-Upgrade to v0.4.1.2 and experience enhanced performance, simpler setup, and increased reliability with Oula Pool. This release is a step forward in making Quai blockchain mining easier and more accessible for all.
+## 📢 **Feedback and Support**
+We value your feedback! Please report any issues or suggestions via our [TG community](https://t.me/oulacommunity/1) or [Discord channel](https://discord.gg/kVpam5Wh).
 
+Thank you for supporting Quai Network and contributing to the growth of decentralized technology!
 Let’s shape the future of mining together! 💪💎
 
 <br>
 
-**Oula Pool Team** ❤️
+**Oula Team** ❤️
 
 ---  
 **For more information and resources, visit our website**: [Oula Network](https://oula.network)  
