@@ -1,19 +1,21 @@
-# 🚀 Quai Testnet Mining Software v0.4.1.3 Release Notes 🎉
+# 🚀 Quai Mainnet Mining Software v1.0.0 Release Notes 🎉
 
-We are excited to announce the release of **Quai Testnet Mining Software v0.4.1.3**, designed to enhance the mining experience with key feature updates and optimizations. This release focuses on improving user visibility and operational clarity for a seamless mining journey.
+The wait is over—**Quai Mainnet Mining Software v1.0.0** is here! A milestone release designed to provide miners with the most stable, efficient, and profitable mining experience yet. 
+As the **dominant mining pool** with the highest network share and consistent block production, Oula ensures that miners can maximize their rewards with confidence and reliability.  
+Join the mining revolution and become part of the most robust and profitable network in the ecosystem!  
 
 <br>
 
-## 🔑 **Highlights of v0.4.1.3**:
+## 🔑 **Highlights of v1.0.0**:  
 
-### **HiveOS Integration for Quai Hashrate Trends** 📊  
-- **24-Hour Hashrate Overview**: HiveOS users can now monitor their mining performance with real-time visibility of hashrate trends directly from the **Overview Tab**.  
-- This integration provides a detailed view of hashrate fluctuations over the past 24 hours, offering actionable insights for optimized mining operations.
+### **Maximized Mining Rewards** 💰  
+- **Higher Profitability**: As the mining pool with the **topest network share** and **more stable block production**, Oula gives miners a unique advantage to earn consistently higher rewards.  
 
-### **Enhanced Log Output Format** 🛠️  
-- **Optimized Logging Style**: Log outputs have been revamped for better readability and precision. Key improvements include:  
-  - Clearer formatting of timestamped entries.  
+### **Improved Stability and Efficiency** ⚡  
+- Enhanced system optimizations ensure smoother operations, reduced downtime, and more consistent mining performance.  
 
+### **Real-Time Reward Tracking** 📊  
+- Monitor your mining performance effortlessly with **real-time updates** on rewards, ensuring full transparency and confidence in your earnings.  
 <br>
 
 ## 💻 **Linux Users:**
@@ -26,7 +28,7 @@ To ensure a smooth mining experience on your Linux system, please refer to our u
 
 #### Update Your HiveOS Configuration:
 - Ensure your flight sheet is updated with the new miner version:
-<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.3.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.3.tar.gz)</span>
+<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v1.0.0.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v1.0.0.tar.gz)</span>
 - For detailed setup instructions, refer to our [HiveOS Setup Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/quai-hiveos).
 
 Once the new flight sheet is applied, you can enjoy seamless Quai Testnet mining without needing any additional environment updates.
