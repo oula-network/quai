@@ -1,19 +1,18 @@
-# 🚀 Quai Testnet Mining Software v0.4.1.3 Release Notes 🎉
+# 🚀 Quai Testnet Mining Software v0.5.0.0 Release Notes 🎉
 
-We are excited to announce the release of **Quai Testnet Mining Software v0.4.1.3**, designed to enhance the mining experience with key feature updates and optimizations. This release focuses on improving user visibility and operational clarity for a seamless mining journey.
+We are excited to announce the release of **Quai Testnet Mining Software v0.5.0.0**! This release marks the final testing phase before the transition to the Quai Mainnet, offering a critical opportunity for miners to optimize their operations.
 
 <br>
 
-## 🔑 **Highlights of v0.4.1.3**:
+## 🔑 **Highlights of v0.5.0.0**:
 
-### **HiveOS Integration for Quai Hashrate Trends** 📊  
-- **24-Hour Hashrate Overview**: HiveOS users can now monitor their mining performance with real-time visibility of hashrate trends directly from the **Overview Tab**.  
-- This integration provides a detailed view of hashrate fluctuations over the past 24 hours, offering actionable insights for optimized mining operations.
+### **Support for Quai Mainnet Testnet** 🧪  
+- **Seamless Transition to Mainnet Testing**: With this update, we introduce full support for the **Quai Mainnet Testnet**, providing a stable environment for the final rounds of testing. Miners can now prepare their rigs for the upcoming mainnet launch by participating in this final phase of the testnet.  
+- **Mainnet-Ready Features**: All key features, including reward distributions and pool configuration, have been optimized for mainnet deployment.
 
-### **Enhanced Log Output Format** 🛠️  
-- **Optimized Logging Style**: Log outputs have been revamped for better readability and precision. Key improvements include:  
-  - Clearer formatting of timestamped entries.  
-
+### **Improved Pool Efficiency & Stability** ⚡  
+- **Performance Boosts**: Improved pool stability and uptime. Expect smoother operations, reduced latency, and more consistent block submissions.  
+- **Advanced Load Balancing**: Dynamic load distribution ensures fair and efficient use of resources across the pool, boosting overall performance during high-demand periods.
 <br>
 
 ## 💻 **Linux Users:**
@@ -26,7 +25,7 @@ To ensure a smooth mining experience on your Linux system, please refer to our u
 
 #### Update Your HiveOS Configuration:
 - Ensure your flight sheet is updated with the new miner version:
-<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.3.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.4.1.3.tar.gz)</span>
+<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.5.0.0.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-v0.5.0.0.tar.gz)</span>
 - For detailed setup instructions, refer to our [HiveOS Setup Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/quai-hiveos).
 
 Once the new flight sheet is applied, you can enjoy seamless Quai Testnet mining without needing any additional environment updates.
