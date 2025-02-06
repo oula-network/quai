@@ -1,6 +1,6 @@
-# 🚀 Quai Mainnet Mining Software v0.5.0.1 Release Notes 🎉
+# 🚀 Quai Mainnet Mining Software v0.5.0.1 Release Notes 🎉  
 
-We are pleased to announce the release of **Quai Mainnet Mining Software v0.5.0.1**, a stability-focused update that enhances GPU mining performance and ensures more reliable hashrate submissions as we approach the Quai Mainnet launch.  
+The **Quai Mainnet is here!** 🎉 With this release, we are rolling out critical stability improvements to ensure miners can maximize efficiency and reliability when submitting hashrate to the **Quai Mainnet**.  
 
 <br>  
 
@@ -13,13 +13,11 @@ We are pleased to announce the release of **Quai Mainnet Mining Software v0.5.0.
   ```  
 - Miners using **NVIDIA GPUs** should experience **increased stability and fewer interruptions** during prolonged mining sessions.  
 
-### **Enhanced Hashrate Submission for Mainnet** ⚡  
-- Optimized **workload distribution and kernel execution** to improve efficiency and prevent GPU-related crashes.  
-- Strengthened **stability of hashrate submissions**, ensuring smoother and more reliable mining performance in preparation for the **Quai Mainnet**.  
+### **Optimized Hashrate Submission for Quai Mainnet** ⚡  
+- Improved **workload distribution and kernel execution** to enhance mining efficiency and prevent GPU-related crashes.  
+- Strengthened **stability of hashrate submissions**, ensuring smooth and reliable mining operations on the **live Quai Mainnet**.
+<br>
 
-We highly encourage miners to update to **v0.5.0.1** to benefit from these critical fixes and improvements.
-<br>
-<br>
 ## 💻 **Linux Users:**
 To ensure a smooth mining experience on your Linux system, please refer to our updated installation guide:  
 👉 [Quai Mining on Linux Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/quai-linux)
