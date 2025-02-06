@@ -1,20 +1,25 @@
-# 🚀 Quai Testnet Mining Software v0.5.0.0 Release Notes 🎉
+# 🚀 Quai Mainnet Mining Software v0.5.0.1 Release Notes 🎉
 
-We are excited to announce the release of **Quai Testnet Mining Software v0.5.0.0**! This release marks the final testing phase before the transition to the Quai Mainnet, offering a critical opportunity for miners to optimize their operations.
+We are pleased to announce the release of **Quai Mainnet Mining Software v0.5.0.1**, a stability-focused update that enhances GPU mining performance and ensures more reliable hashrate submissions as we approach the Quai Mainnet launch.  
 
+<br>  
+
+## 🔧 **Fixes & Improvements in v0.5.0.1**  
+
+### **Critical GPU Error Fix** 🛠️  
+- Resolved an issue causing **CUDA errors** that disrupted mining operations for some users. Specifically, the following error has been addressed:  
+  ```  
+  Exception thrown in Worker thread: GPU error: CUDA error in func search at line 571 calling cuLaunchKernel(m_kernel[m_kernelExecIx], m_settings.gridSize, 1, 1, m_settings.blockSize, 1, 1, 0, stream, args, 0) failed with error CUDA_ERROR_INVALID_HANDLE  
+  ```  
+- Miners using **NVIDIA GPUs** should experience **increased stability and fewer interruptions** during prolonged mining sessions.  
+
+### **Enhanced Hashrate Submission for Mainnet** ⚡  
+- Optimized **workload distribution and kernel execution** to improve efficiency and prevent GPU-related crashes.  
+- Strengthened **stability of hashrate submissions**, ensuring smoother and more reliable mining performance in preparation for the **Quai Mainnet**.  
+
+We highly encourage miners to update to **v0.5.0.1** to benefit from these critical fixes and improvements.
 <br>
-
-## 🔑 **Highlights of v0.5.0.0**:
-
-### **Support for Quai Mainnet Testnet** 🧪  
-- **Seamless Transition to Mainnet Testing**: With this update, we introduce full support for the **Quai Mainnet Testnet**, providing a stable environment for the final rounds of testing. Miners can now prepare their rigs for the upcoming mainnet launch by participating in this final phase of the testnet.  
-- **Mainnet-Ready Features**: All key features, including reward distributions and pool configuration, have been optimized for mainnet deployment.
-
-### **Improved Pool Efficiency & Stability** ⚡  
-- **Performance Boosts**: Improved pool stability and uptime. Expect smoother operations, reduced latency, and more consistent block submissions.  
-- **Advanced Load Balancing**: Dynamic load distribution ensures fair and efficient use of resources across the pool, boosting overall performance during high-demand periods.
 <br>
-
 ## 💻 **Linux Users:**
 To ensure a smooth mining experience on your Linux system, please refer to our updated installation guide:  
 👉 [Quai Mining on Linux Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/quai-linux)
@@ -25,7 +30,7 @@ To ensure a smooth mining experience on your Linux system, please refer to our u
 
 #### Update Your HiveOS Configuration:
 - Ensure your flight sheet is updated with the new miner version:
-<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.0.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.0.tar.gz)</span>
+<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.1.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.1.tar.gz)</span>
 - For detailed setup instructions, refer to our [HiveOS Setup Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/quai-hiveos).
 
 Once the new flight sheet is applied, you can enjoy seamless Quai Testnet mining without needing any additional environment updates.
