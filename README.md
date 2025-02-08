@@ -1,18 +1,18 @@
-# 🚀 Quai Testnet Mining Software v0.5.0.0 Release Notes 🎉
+# 🚀 Quai Mainnet Mining Software v0.5.0.1 Release Notes 🎉  
 
-We are excited to announce the release of **Quai Testnet Mining Software v0.5.0.0**! This release marks the final testing phase before the transition to the Quai Mainnet, offering a critical opportunity for miners to optimize their operations.
+The **Quai Mainnet is here!** 🎉 With this release, we are rolling out critical stability improvements to ensure miners can maximize efficiency and reliability when submitting hashrate to the **Quai Mainnet**.  
 
-<br>
+<br>  
 
-## 🔑 **Highlights of v0.5.0.0**:
+## 🔧 **Fixes & Improvements in v0.5.0.1**  
 
-### **Support for Quai Mainnet Testnet** 🧪  
-- **Seamless Transition to Mainnet Testing**: With this update, we introduce full support for the **Quai Mainnet Testnet**, providing a stable environment for the final rounds of testing. Miners can now prepare their rigs for the upcoming mainnet launch by participating in this final phase of the testnet.  
-- **Mainnet-Ready Features**: All key features, including reward distributions and pool configuration, have been optimized for mainnet deployment.
+### **Critical Error Fix** 🛠️  
+- Miners should experience **greater stability and fewer crashes** during mining sessions.  
 
-### **Improved Pool Efficiency & Stability** ⚡  
-- **Performance Boosts**: Improved pool stability and uptime. Expect smoother operations, reduced latency, and more consistent block submissions.  
-- **Advanced Load Balancing**: Dynamic load distribution ensures fair and efficient use of resources across the pool, boosting overall performance during high-demand periods.
+### **Optimized Hashrate Submission for Quai Mainnet** ⚡  
+- Improved **hashrate submission stability**, ensuring **more reliable and efficient mining performance** on the **live Quai Mainnet**.  
+
+All miners are advised to update to ensure **hashrate stability**. Keep mining strong! ⛏️🔥  
 <br>
 
 ## 💻 **Linux Users:**
@@ -25,7 +25,7 @@ To ensure a smooth mining experience on your Linux system, please refer to our u
 
 #### Update Your HiveOS Configuration:
 - Ensure your flight sheet is updated with the new miner version:
-<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.0.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.0.tar.gz)</span>
+<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.1.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.1.tar.gz)</span>
 - For detailed setup instructions, refer to our [HiveOS Setup Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/quai-hiveos).
 
 Once the new flight sheet is applied, you can enjoy seamless Quai Testnet mining without needing any additional environment updates.
