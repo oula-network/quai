@@ -6,16 +6,13 @@ The **Quai Mainnet is here!** 🎉 With this release, we are rolling out critica
 
 ## 🔧 **Fixes & Improvements in v0.5.0.1**  
 
-### **Critical GPU Error Fix** 🛠️  
-- Resolved an issue causing **CUDA errors** that disrupted mining operations for some users. Specifically, the following error has been addressed:  
-  ```  
-  Exception thrown in Worker thread: GPU error: CUDA error in func search at line 571 calling cuLaunchKernel(m_kernel[m_kernelExecIx], m_settings.gridSize, 1, 1, m_settings.blockSize, 1, 1, 0, stream, args, 0) failed with error CUDA_ERROR_INVALID_HANDLE  
-  ```  
-- Miners using **NVIDIA GPUs** should experience **increased stability and fewer interruptions** during prolonged mining sessions.  
+### **Critical Error Fix** 🛠️  
+- Miners should experience **greater stability and fewer crashes** during mining sessions.  
 
 ### **Optimized Hashrate Submission for Quai Mainnet** ⚡  
-- Improved **workload distribution and kernel execution** to enhance mining efficiency and prevent GPU-related crashes.  
-- Strengthened **stability of hashrate submissions**, ensuring smooth and reliable mining operations on the **live Quai Mainnet**.
+- Improved **hashrate submission stability**, ensuring **more reliable and efficient mining performance** on the **live Quai Mainnet**.  
+
+All miners are advised to update to ensure **hashrate stability**. Keep mining strong! ⛏️🔥  
 <br>
 
 ## 💻 **Linux Users:**
