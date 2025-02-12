@@ -1,19 +1,22 @@
-# 🚀 Quai Mainnet Mining Software v0.5.0.1 Release Notes 🎉  
+# 🚀 Quai Mainnet Mining Software v0.5.0.2 Release Notes 🎉  
 
-The **Quai Mainnet is here!** 🎉 With this release, we are rolling out critical stability improvements to ensure miners can maximize efficiency and reliability when submitting hashrate to the **Quai Mainnet**.  
+The **Quai Mainnet v0.5.0.2** is here, with important optimizations to address recent hashrate anomalies and improve mining performance. We're committed to ensuring a smooth, stable mining experience for all miners!
 
-<br>  
+## 🔧 **Fixes & Improvements in v0.5.0.2**
 
-## 🔧 **Fixes & Improvements in v0.5.0.1**  
+### **Hashrate Anomaly Fix** 🛠️  
+- Resolved **hashrate instability issues**, ensuring **consistent performance** and eliminating unexpected drops in hashrate during mining sessions.  
+- Enhanced **monitoring mechanisms** to better detect and address abnormal mining behavior.
 
-### **Critical Error Fix** 🛠️  
-- Miners should experience **greater stability and fewer crashes** during mining sessions.  
+### **Improved Mining Efficiency** ⚡  
+- Further optimization of **hashrate submission** for **Quai Mainnet**, resulting in **more accurate and efficient submissions** to the network.  
+- Increased **data transmission reliability**, minimizing any interruptions and enhancing overall mining productivity.
 
-### **Optimized Hashrate Submission for Quai Mainnet** ⚡  
-- Improved **hashrate submission stability**, ensuring **more reliable and efficient mining performance** on the **live Quai Mainnet**.  
+### **General Stability Enhancements** 🛠️  
+- Fixed minor bugs impacting **miner interactions with Quai Mainnet**, contributing to **greater system stability** and uptime.  
+- Improved **network communication protocols** to prevent data loss during peak times.
 
-All miners are advised to update to ensure **hashrate stability**. Keep mining strong! ⛏️🔥  
-<br>
+We strongly recommend all miners to update to v0.5.0.2 immediately to ensure optimal performance and to continue contributing to the growth of the **Quai Mainnet**! ⛏️💪
 
 ## 💻 **Linux Users:**
 To ensure a smooth mining experience on your Linux system, please refer to our updated installation guide:  
