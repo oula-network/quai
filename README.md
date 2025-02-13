@@ -28,7 +28,7 @@ To ensure a smooth mining experience on your Linux system, please refer to our u
 
 #### Update Your HiveOS Configuration:
 - Ensure your flight sheet is updated with the new miner version:
-<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.1.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.1.tar.gz)</span>
+<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.2.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.2.tar.gz)</span>
 - For detailed setup instructions, refer to our [HiveOS Setup Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/quai-hiveos).
 
 Once the new flight sheet is applied, you can enjoy seamless Quai Testnet mining without needing any additional environment updates.
