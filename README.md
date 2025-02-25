@@ -1,22 +1,24 @@
-# 🚀 Quai Mainnet Mining Software v0.5.0.2 Release Notes 🎉  
+# 🚀 Quai Mainnet Mining Software v0.5.0.3 Release Notes 🎉  
 
-The **Quai Mainnet v0.5.0.2** is here, with important optimizations to address recent hashrate anomalies and improve mining performance. We're committed to ensuring a smooth, stable mining experience for all miners!
+The **Quai Mainnet v0.5.0.3** is now available, bringing critical fixes and optimizations to enhance mining stability and efficiency. This update focuses on resolving memory-related issues, ensuring a smoother experience for all miners.  
+<br>
 
-## 🔧 **Fixes & Improvements in v0.5.0.2**
+## 🔧 **Fixes & Improvements in v0.5.0.3**  
 
-### **Hashrate Anomaly Fix** 🛠️  
-- Resolved **hashrate instability issues**, ensuring **consistent performance** and eliminating unexpected drops in hashrate during mining sessions.  
-- Enhanced **monitoring mechanisms** to better detect and address abnormal mining behavior.
+### **Memory Leak Fix** 🛠️  
+- Identified and **fixed memory leak issues** that were causing **OOM (Out of Memory) errors**, especially on low-memory machines.  
+- Improved **memory allocation and release mechanisms**, preventing unnecessary memory consumption and crashes.  
 
-### **Improved Mining Efficiency** ⚡  
-- Further optimization of **hashrate submission** for **Quai Mainnet**, resulting in **more accurate and efficient submissions** to the network.  
-- Increased **data transmission reliability**, minimizing any interruptions and enhancing overall mining productivity.
+### **Optimized for Low-Memory Systems** ⚡  
+- Enhanced **memory management**, reducing the overall footprint and allowing the miner to run more efficiently on devices with limited RAM.  
+- Increased **stability and responsiveness**, ensuring consistent mining performance across a wider range of hardware configurations.  
 
-### **General Stability Enhancements** 🛠️  
-- Fixed minor bugs impacting **miner interactions with Quai Mainnet**, contributing to **greater system stability** and uptime.  
-- Improved **network communication protocols** to prevent data loss during peak times.
+### **Important Notice** ⚠️  
+- **Root Privileges Required**: Please ensure you run the program with **root privileges** to enable proper resource management and stability.  
 
-We strongly recommend all miners to update to v0.5.0.2 immediately to ensure optimal performance and to continue contributing to the growth of the **Quai Mainnet**! ⛏️💪
+We strongly recommend all miners update to v0.5.0.3 immediately to take advantage of these improvements and maintain optimal mining performance. ⛏️💪  
+
+<br>
 
 ## 💻 **Linux Users:**
 To ensure a smooth mining experience on your Linux system, please refer to our updated installation guide:  
@@ -28,7 +30,7 @@ To ensure a smooth mining experience on your Linux system, please refer to our u
 
 #### Update Your HiveOS Configuration:
 - Ensure your flight sheet is updated with the new miner version:
-<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.2.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.2.tar.gz)</span>
+<span style="background-color: yellow; padding: 5px;">[https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.3.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.3.tar.gz)</span>
 - For detailed setup instructions, refer to our [HiveOS Setup Guide](https://oula-faq.gitbook.io/zh/en/mining-tutorial/quai-hiveos).
 
 Once the new flight sheet is applied, you can enjoy seamless Quai Testnet mining without needing any additional environment updates.
